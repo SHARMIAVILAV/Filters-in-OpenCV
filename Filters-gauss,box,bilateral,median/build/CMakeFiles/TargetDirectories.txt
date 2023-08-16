@@ -1,0 +1,3 @@
+/home/sharmi/Downloads/Filters/Filters-gauss,box,bilateral,median/build/CMakeFiles/rebuild_cache.dir
+/home/sharmi/Downloads/Filters/Filters-gauss,box,bilateral,median/build/CMakeFiles/edit_cache.dir
+/home/sharmi/Downloads/Filters/Filters-gauss,box,bilateral,median/build/CMakeFiles/filters.dir
